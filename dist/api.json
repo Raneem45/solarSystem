@@ -1,0 +1,76 @@
+[
+    {
+        "mercury": {
+            "name": "mercury",
+            "speed": "47.9 km/s (29.8 mi/s)",
+            "gravity": "3.7 m/s²",
+            "moons": 0,
+            "diameter": "4,880 km",
+            "definition": "The smallest planet in the Solar System. Mercury has very little atmosphere to stop impacts and it is covered with craters. Mercury's dayside is super heated by the Sun, but at night temperatures drop hundreds of degrees below freezing. Ice may even exist in craters. Mercury's egg-shaped orbit takes it around the Sun every 88 days."
+        },
+        "venus": {
+            "name": "venus",
+            "speed": "35.0 km/s (21.7 mi/s)",
+            "gravity": "8.87 m/s²",
+            "moons": 0,
+            "diameter": "12,104 km",
+            "definition": "It is a rocky planet Venus is a dim world of intense heat and volcanic activity. Similar in structure and size to Earth, Venus' thick, toxic atmosphere traps heat in a runaway 'greenhouse effect.' The scorched world has temperatures hot enough to melt lead. Glimpses below the clouds reveal volcanoes and deformed mountains. Venus spins slowly in the opposite direction of most planets."
+        },
+        "earth": {
+            "name": "Earth",
+            "speed": "29.8 km/s (18.5 mi/s)",
+            "gravity": "9.81 m/s²",
+            "moons": 1,
+            "diameter": "12,755 km",
+            "definition": "Earth is an ocean planet. Our home world's abundance of water - and life - makes it unique in our solar system. Other planets, plus a few moons, have ice, atmospheres, seasons and even weather, but only on Earth does the whole complicated mix come together in a way that encourages life - and lots of it."
+        },
+        "mars": {
+            "name": "mars",
+            "speed": "24.1 km/s (15.0 mi/s)",
+            "gravity": "3.71 m/s²",
+            "moons": 2,
+            "diameter": "6,779 km",
+            "definition": "Though details of Mars' surface are difficult to see from Earth, telescope observations show seasonally changing features and white patches at the poles. For decades, people speculated that bright and dark areas on Mars were patches of vegetation, that Mars could be a likely place for life-forms, and that water might exist in the polar caps. When the Mariner 4 spacecraft flew by Mars in 1965, many were shocked to see photographs of a bleak, cratered surface. Mars seemed to be a dead planet. Later missions, however, have shown that Mars is a complex member of the solar system and holds many mysteries yet to be solved."
+        },
+        "jupiter": {
+            "name": "jupiter",
+            "speed": "13.1 km/s (8.1 mi/s)",
+            "gravity": "24.79 m/s²",
+            "moons": 80,
+            "diameter": "139,822 km",
+            "definition": "The most massive planet in our solar system, with four large moons and many smaller moons, Jupiter forms a kind of miniature solar system. Jupiter resembles a star in composition. In fact, if it had been about 80 times more massive, it would have become a star rather than a planet."
+        },
+        "saturn": {
+            "name": "saturn",
+            "speed": "9.7 km/s (6.0 mi/s)",
+            "gravity": "10.44 m/s²",
+            "moons": 80,
+            "diameter": "116,464 km",
+            "definition": "Saturn was the most distant of the five planets known to the ancients. Like Jupiter, Saturn is made mostly of hydrogen and helium. Its volume is 755 times greater than that of Earth. Winds in the upper atmosphere reach 500 meters (1,600 feet) per second in the equatorial region. These super-fast winds, combined with heat rising from within the planet's interior, cause the yellow and gold bands visible in the atmosphere."
+        },
+        "uranus": {
+            "name": "uranus",
+            "speed": "6.8 km/s (4.2 mi/s)",
+            "gravity": "8.87 m/s²",
+            "moons": 27,
+            "diameter": "50,724 km",
+            "definition": "The first planet found with the aid of a telescope, Uranus was discovered in 1781 by astronomer William Herschel. The seventh planet from the Sun is so distant that it takes 84 years to complete one orbit."
+        },
+        "neptune": {
+            "name": "neptune",
+            "speed": "5.4 km/s (3.4 mi/s)",
+            "gravity": "11.15 m/s²",
+            "moons": 14,
+            "diameter": "49,244 km",
+            "definition": "Nearly 4.5 billion kilometers (2.8 billion miles) from the Sun, Neptune orbits the Sun once every 165 years. It is invisible to the naked eye because of its extreme distance from Earth. Interestingly, the unusual elliptical orbit of the dwarf planet Pluto brings Pluto inside Neptune's orbit for a 20-year period out of every 248 Earth years"
+        },
+        "sun": {
+            "name": "sun",
+            "speed": "230 km/s",
+            "gravity": "274 m/s²",
+            "moons": 0,
+            "diameter": "1,392,700 km",
+            "definition": "The Sun is a star, a hot ball of glowing gases at the heart of our solar system. Its influence extends far beyond the orbits of distant Neptune and Pluto. Without the Sun's intense energy and heat, there would be no life on Earth. And though it is special to us, there are billions of stars like our Sun scattered across the Milky Way galaxy."
+        }
+    }
+]
