@@ -36,7 +36,7 @@
             "name": "jupiter",
             "speed": "13.1 km/s (8.1 mi/s)",
             "gravity": "24.79 m/s²",
-            "moons": 80,
+            "moons": 95,
             "diameter": "139,822 km",
             "definition": "The most massive planet in our solar system, with four large moons and many smaller moons, Jupiter forms a kind of miniature solar system. Jupiter resembles a star in composition. In fact, if it had been about 80 times more massive, it would have become a star rather than a planet."
         },
